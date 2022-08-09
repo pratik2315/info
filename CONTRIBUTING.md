@@ -1,6 +1,6 @@
 # Contributing to Web-Ifc-three
 
-Thanks for checking out the IFCjs web-ifc-three! We're excited to hear and learn from you. We love your input! We want to make contributing to this project as easy and transparent as possible.
+Thanks for checking out the IFCjs web-ifc-three project! We're excited to hear and learn from you. We love your input! We want to make contributing to this project as easy and transparent as possible.
 
 We've put together the following guidelines to help you figure out where you can best be helpful.
 
