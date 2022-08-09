@@ -20,7 +20,7 @@ We've put together the following guidelines to help you figure out where you can
     <img src = "https://user-images.githubusercontent.com/77961530/183715093-b6d4d6c0-d2c8-4633-afa8-d13a8c7e8acc.png" width="600"/>
     </p>
 
-   - Now, lets setup the repository on our local machine. Use:
+   - Now, lets setup the repository on our local machine.
      ```shell
      git clone https://github.com/YOUR_USERNAME/web-ifc-three.git
      ```
@@ -31,5 +31,22 @@ We've put together the following guidelines to help you figure out where you can
 
       git remote add upstream https://github.com/IFCjs/web-ifc-three.git
       ```
+
+3. Installing libraries - Before you start making any code related contributions, you need to install some libraries required for web-ifc-three. These libraries are as follows:
+
+   - Install IFC.js:
+    ```shell
+    npm i web-ifc-three
+    ```
+   - Install three.js:
+    ```shell
+    npm i three
+    ```
+
+   - Install a bundler:
+    ```shell
+    npm i rollup --save-dev
+    npm i @rollup/plugin-node-resolve --save-dev
+    ```
 
 
