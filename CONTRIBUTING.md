@@ -20,4 +20,16 @@ We've put together the following guidelines to help you figure out where you can
     <img src = "https://user-images.githubusercontent.com/77961530/183715093-b6d4d6c0-d2c8-4633-afa8-d13a8c7e8acc.png" width="600"/>
     </p>
 
+   - Now, lets setup the repository on our local machine. Use:
+     ```shell
+     git clone https://github.com/YOUR_USERNAME/web-ifc-three.git
+     ```
+   
+   - Now, lets add an upstream connection!
+      ```shell
+      cd web-ifc-three
+
+      git remote add upstream https://github.com/IFCjs/web-ifc-three.git
+      ```
+
 
